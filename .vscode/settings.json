@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "/mnt/125C0DD45C0DB38F/Softwares World/Linux/sqlite-jdbc-3.47.0.0.jar"
+    ]
+}
